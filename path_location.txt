@@ -1,0 +1,7 @@
+Input_Folder = C:\\Users\\spasha\\OneDrive - ARi\\Document_parsing\\Input_Folder\\
+AVF_output_folder = C:\\Users\\spasha\\OneDrive - ARi\\Document_parsing
+output_log_file = C:\\Users\\spasha\\OneDrive - ARi\\Document_parsing\\log_file.csv
+processed_documents_folder = C:\\Users\\spasha\\OneDrive - ARi\\Document_parsing\\Processed Documents
+error_documents_folder = C:\\Users\\spasha\\OneDrive - ARi\\Document_parsing\\Error Documents
+master_file = C:\\Users\\spasha\\OneDrive - ARi\\Document_parsing\\master.xlsx
+output_excel_file = C:\\Users\\spasha\\OneDrive - ARi\\Document_parsing\\AVF_Output.xlsx
