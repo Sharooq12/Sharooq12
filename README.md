@@ -3,7 +3,7 @@
 
 📍 Dubai, UAE  
 
----
+https://readme-typing-svg.demolab.com/demo/?color=22E3FF&lines=AI+Engineer;Data+Scientist;Computer+Vision+Engineer;GenAI+Engineer
 
 ## 💫 About Me
 I’m **Sharooq Pasha**, an **AI Engineer with 3+ years of experience** building and deploying **production-grade AI systems** across **Computer Vision, Generative AI, and Large Language Models (LLMs)**.
