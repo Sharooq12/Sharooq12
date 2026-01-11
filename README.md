@@ -1,8 +1,7 @@
 # Hi 👋 I'm Sharooq Pasha  
 ### AI Engineer | Senior Data Scientist | GenAI & Computer Vision
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22E3FF&width=435&lines=AI+Engineer;Data+Scientist;Computer+Vision+Engineer;GenAI+Engineer)](https://git.io/typing-svg)
-📍 Dubai, UAE  
+📍 Burjuman, Dubai  
 
 
 ## 💫 About Me
@@ -66,12 +65,6 @@ OpenCV · Hugging Face · Git · Linux
 
 **Cloud**  
 AWS (Basics)
-
----
-
-## 📊 GitHub Stats
-![Sharooq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sharooq12&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharooq12&layout=compact&theme=radical)
 
 ---
 
